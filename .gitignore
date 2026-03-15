@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+siva_env/
+
+# Ignore the massive AI model files
+*.gguf
+
+# Ignore the YOLO vision weights
+*.pt
+
+# Ignore Mac system files
+.DS_Store
