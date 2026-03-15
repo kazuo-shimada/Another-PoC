@@ -29,8 +29,9 @@ In traditional warehouse or retail environments, cycle counting and procurement 
 Clone this repository and set up your virtual environment:
 
 # Clone the repo
-git clone [https://github.com/YOUR_USERNAME/SIVA-inventory-agent.git](https://github.com/YOUR_USERNAME/SIVA-inventory-agent.git)
-cd SIVA-inventory-agent
+git clone [[https://github.com/YOUR_USERNAME/SIVA-inventory-agent.git](https://github.com/YOUR_USERNAME/SIVA-inventory-agent.git)](https://github.com/kazuo-shimada/Another-PoC)
+
+    cd SIVA-inventory-agent
 
 # Create and activate the virtual environment
     python3 -m venv siva_env
