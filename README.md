@@ -29,7 +29,7 @@ In traditional warehouse or retail environments, cycle counting and procurement 
 Clone this repository and set up your virtual environment:
 
 # Clone the repo
-git clone (https://github.com/YOUR_USERNAME/SIVA-inventory-agent.git)](https://github.com/kazuo-shimada/Another-PoC)
+git clone (https://github.com/kazuo-shimada/Another-PoC)
 
     cd SIVA-inventory-agent
 
